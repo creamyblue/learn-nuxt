@@ -193,6 +193,36 @@
       "name": "Awesome Concrete Shirt",
       "price": "165.00",
       "imageUrl": "http://placeimg.com/640/480/fashion"
+    },
+    {
+      "id": 5,
+      "name": "Small Rubber Salad",
+      "price": "455.00",
+      "imageUrl": "http://placeimg.com/640/480/fashion"
+    },
+    {
+      "id": 9,
+      "name": "Handcrafted Plastic Computer",
+      "price": "289.00",
+      "imageUrl": "http://placeimg.com/640/480/fashion"
+    },
+    {
+      "id": 8,
+      "name": "Sleek Steel Towels",
+      "price": "607.00",
+      "imageUrl": "http://placeimg.com/640/480/fashion"
+    },
+    {
+      "id": 10,
+      "name": "Small Fresh Soap",
+      "price": "777.00",
+      "imageUrl": "http://placeimg.com/640/480/fashion"
+    },
+    {
+      "id": 21,
+      "name": "Handcrafted Soft Pizza",
+      "price": "277.00",
+      "imageUrl": "http://placeimg.com/640/480/fashion"
     }
   ]
 }
